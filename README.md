@@ -1,6 +1,6 @@
 # cf-first-node
 
-# Hello World Node App to test the Node Build pack 
+## Hello World Node App to test the Offline Node Build pack 
 
 ### Clone this Repo
 ````
